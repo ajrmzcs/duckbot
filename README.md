@@ -15,5 +15,5 @@ Demo App
 * Generate key: php artisan key:generate
 * Install laravel sail: php artisan sail:install and enter 0 to install mysql
 * Create development environment: vendor/bin/sail up -d
-* Run migrations and seeders: vendor/bin/sail artisan migrate
+* Run migrations: vendor/bin/sail artisan migrate
 *  Run command: vendor/bin/sail duck:manage
